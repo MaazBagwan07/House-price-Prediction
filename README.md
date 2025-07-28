@@ -92,7 +92,7 @@ bengaluru_house_price_prediction/
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/yourusername/bengaluru-house-price-prediction.git
+   git clone https://github.com/MaazBagwan07/House-price-Prediction.git
    cd bengaluru-house-price-prediction
    ```
 
